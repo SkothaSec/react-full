@@ -54,7 +54,7 @@
     "@babel/preset-env": "7.6.3",
     "@babel/preset-react": "7.6.3",
     "acorn": "7.1.0",
-    "ajv": "6.10.2",
+    "ajv": "6.12.3",
     "autoprefixer": "9.7.0",
     "babel-core": "6.26.3",
     "babel-eslint": "10.0.3",
